@@ -1,0 +1,31 @@
+.body {
+    background-color: #E9ECEF;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.list {
+    text-align: center;
+}
+
+h3{
+    color: orange;
+}
+.card-text {
+    text-align: left;
+    color: blueviolet;
+}
+.card-body{
+    size: 20px;
+}
